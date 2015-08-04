@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omni</title>
+    <link>http://jbake.org</link>
+    <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description>OmniLayer GitHub Feed</description>
+    <language>en-gb</language>
+    <pubDate>Mon, 3 Aug 2015 21:59:01 -0700</pubDate>
+    <lastBuildDate>Mon, 3 Aug 2015 21:59:01 -0700</lastBuildDate>
+
+    <item>
+      <title>Welcome</title>
+      <link>http://jbake.org/blog/2015/welcome.html</link>
+      <pubDate>Mon, 3 Aug 2015 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2015/welcome.html</guid>
+      <description>&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Welcome to the &amp;lt;strong&amp;gt;OmniLayer&amp;lt;/strong&amp;gt; Github blog. We already have a &amp;lt;a href=&amp;quot;http://blog.omni.foundation&amp;quot;&amp;gt;Blog&amp;lt;/a&amp;gt; elsewhere, so it&amp;amp;#8217;s not sure how much we&amp;amp;#8217;ll use the blogging feature of this site.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;Since this blog can be authored in the &amp;lt;a href=&amp;quot;http://asciidoctor.org&amp;quot;&amp;gt;AsciiDoctor&amp;lt;/a&amp;gt; format, it is well-suited for technical writing, so we may use it for some more technical communications.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;</description>	  
+    </item>
+
+  </channel> 
+</rss>
